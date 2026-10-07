@@ -44,5 +44,7 @@
     //Javascript Support
     "allowJs": true,
     "checkJs": false,
+
+    "experimentalDecorators": true,
   }
 }
